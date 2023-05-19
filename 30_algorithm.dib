@@ -4,13 +4,19 @@
 
 #!csharp
 
-#r ".\AlgorithmLibrary.dll"
+//#r ".\AlgorithmLibrary.dll"
+#r "nuget:AlgorithmLibrary.20230519.001.MicBai, 1.0.0" // local package source
+#r "nuget:BenchmarkDotNet, 0.12.1"
 
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
+using BenchmarkDotNet.Attributes;
+using BenchmarkDotNet.Running;
+
 using AlgorithmLibrary;
 
 #!csharp
@@ -23,8 +29,6 @@ Console.WriteLine(string.Join(", ", randomIntegerArray));
 
 #!csharp
 
-var randomIntegers = Helper.RandomIntegers(100, -100, 100);
-    
 /// <summary>
 /// Find any triplets that sum to zero.
 /// </summary>
@@ -52,8 +56,17 @@ public static int Count(int[] a)
     return counter;
 }
 
-Console.WriteLine(Count(randomIntegers.ToArray()));
+#!csharp
+
+var randomIntegers = Helper.RandomIntegers(100, -100, 100);
+Console.WriteLine(Count(randomIntegers.ToArray<int>()));
 
 #!csharp
 
-Helper.
+// write code to calulate the fibonacci number
+public static int Fibonacci(int n)
+{
+    if (n == 0) return 0;
+    if (n == 1) return 1;
+    return Fibonacci(n - 1) + Fibonacci(n - 2);
+}
