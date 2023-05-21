@@ -2,10 +2,17 @@
 
 {"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"name":"csharp"}]}}
 
+#!markdown
+
+## Use additional packeges
+
+can be used to add an additional dll
+#r ".\AlgorithmLibrary.dll"
+
 #!csharp
 
-//#r ".\AlgorithmLibrary.dll"
-#r "nuget:AlgorithmLibrary.20230519.001.MicBai, 1.0.0" // local package source
+// local package source
+#r "nuget:AlgorithmLibrary.MicBai" 
 #r "nuget:BenchmarkDotNet, 0.12.1"
 
 using System;
