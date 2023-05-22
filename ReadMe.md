@@ -3,5 +3,5 @@
 ### Add a local package source
 [dotnet nuget](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-nuget-add-source)
 ```
-dotnet nuget add source c:\packages
+dotnet nuget add source c:\users\micha\.nuget\source
 ```
