@@ -1,0 +1,101 @@
+FirstName,LastName,BirthYear,Rating,Country,Id
+Magnus,Carlsen,1990,2842,NOR,1
+Fabiano,Caruana,1992,2822,USA,2
+Shakhriyar,Mamedyarov,1985,2801,AZE,3
+Liren,Ding,1992,2797,CHN,4
+Anish,Giri,1994,2780,NED,5
+Wesley,So,1993,2780,USA,6
+Vladimir,Kramnik,1975,2779,RUS,7
+Maxime,Vachier-Lagrave,1990,2779,FRA,8
+Hikaru,Nakamura,1987,2777,USA,9
+Sergey,Karjakin,1990,2773,RUS,10
+Ian,Nepomniachtchi,1990,2768,RUS,11
+Viswanathan,Anand,1969,2768,IND,12
+Levon,Aronian,1982,2767,ARM,13
+Alexander,Grischuk,1983,2766,RUS,14
+Yangyi,Yu,1994,2760,CHN,15
+Peter,Svidler,1976,2753,RUS,16
+Teimour,Radjabov,1987,2751,AZE,17
+Dmitry,Jakovenko,1983,2748,RUS,18
+Veselin,Topalov,1975,2747,FID,19
+David,Navara,1985,2741,CZE,20
+Jan-Krzysztof,Duda,1998,2740,POL,21
+P.,Harikrishna,1986,2739,IND,22
+Yi,Wei,1999,2735,CHN,23
+Nikita,Vitiugov,1987,2730,RUS,24
+Quang Liem,Le,1991,2727,VIE,25
+Radoslaw,Wojtaszek,1987,2727,POL,26
+Samuel,Shankland,1991,2727,USA,27
+Richard,Rapport,1996,2719,HUN,28
+Ivan,Cheparinov,1986,2718,GEO,29
+Santosh Gujrathi,Vidit,1994,2715,IND,30
+Chao b,Li,1989,2714,CHN,31
+Xiangzhi,Bu,1985,2712,CHN,32
+Arkadij,Naiditsch,1985,2711,AZE,33
+Yuriy,Kryvoruchko,1986,2711,UKR,34
+Hao,Wang,1989,2711,CHN,35
+Dmitry,Andreikin,1990,2710,RUS,36
+Vassily,Ivanchuk,1969,2710,UKR,37
+Rauf,Mamedov,1988,2708,AZE,38
+Vladimir,Fedoseev,1995,2707,RUS,39
+Francisco,Vallejo Pons,1982,2707,ESP,40
+Michael,Adams,1971,2706,ENG,41
+Pavel,Eljanov,1983,2706,UKR,42
+Boris,Gelfand,1968,2703,ISR,43
+Zoltan,Almasi,1976,2702,HUN,44
+Vladislav,Artemiev,1998,2702,RUS,45
+Evgeny,Tomashevsky,1987,2702,RUS,46
+Etienne,Bacrot,1983,2699,FRA,47
+Matthew D,Sadler,1974,2693,ENG,48
+Tamir,Nabaty,1991,2692,ISR,49
+Daniil,Dubov,1996,2691,RUS,50
+Peter,Leko,1979,2691,HUN,51
+Ivan,Saric,1990,2690,CRO,52
+Ernesto,Inarkiev,1985,2690,RUS,53
+David W L,Howell,1990,2687,ENG,54
+Markus,Ragger,1988,2686,AUT,55
+Ruslan,Ponomariov,1983,2686,UKR,56
+Bassem,Amin,1988,2684,EGY,57
+Maxim,Matlakov,1991,2683,RUS,58
+Gabriel,Sargissian,1983,2680,ARM,59
+Ferenc,Berkes,1985,2678,HUN,60
+Maxim,Rodshtein,1989,2678,ISR,61
+Vladimir,Malakhov,1980,2677,RUS,62
+Sanan,Sjugirov,1993,2677,RUS,63
+Yue,Wang,1987,2677,CHN,64
+Eltaj,Safarli,1992,2676,AZE,65
+Gata,Kamsky,1974,2675,USA,66
+Hua,Ni,1983,2673,CHN,67
+Krishnan,Sasikiran,1981,2671,IND,68
+B.,Adhiban,1992,2671,IND,69
+Anton,Demchenko,1987,2670,RUS,70
+Ray,Robson,1994,2670,USA,71
+Dariusz,Swiercz,1994,2669,POL,72
+Luke J,McShane,1984,2669,ENG,73
+Vladislav,Kovalev,1994,2667,BLR,74
+S.P.,Sethuraman,1993,2666,IND,75
+Gawain C B,Jones,1987,2666,ENG,76
+Gadir,Guseinov,1986,2665,AZE,77
+Jorge,Cori,1995,2664,PER,78
+Anton,Korobov,1985,2664,UKR,79
+Evgeniy,Najer,1977,2663,RUS,80
+Jon Ludvig,Hammer,1990,2662,NOR,81
+Viktor,Laznicka,1988,2662,CZE,82
+Rustam,Kasimdzhanov,1979,2662,UZB,83
+Alexander,Motylev,1979,2661,RUS,84
+Hrant,Melkumyan,1989,2660,ARM,85
+Nigel D,Short,1965,2659,ENG,86
+Nils,Grandelius,1993,2658,SWE,87
+Yifan,Hou,1994,2658,CHN,88
+Robin,Van Kampen,1994,2658,NED,89
+Liviu-Dieter,Nisipeanu,1976,2657,GER,90
+Luka,Lenic,1988,2656,SLO,91
+Alexander,Morozevich,1977,2656,RUS,92
+Vladimir,Akopian,1971,2655,ARM,93
+Martyn,Kravtsiv,1990,2654,UKR,94
+Lazaro,Bruzon Batista,1982,2653,CUB,95
+David,Anton Guijarro,1995,2652,ESP,96
+Alexander,Areshchenko,1986,2652,UKR,97
+Surya Shekhar,Ganguly,1983,2652,IND,98
+Sergei,Rublevsky,1974,2652,RUS,99
+Igors,Rausis,1961,2651,CZE,100
